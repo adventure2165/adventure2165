@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Contact : eblistrigger@gmail.com
+
+Interested : Natural Language Processing, GAN, GAN for NLP
+
+Hobby : Game, Music
+
+Searching : 전문연구요원 
 <!--
 **adventure2165/adventure2165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
