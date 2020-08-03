@@ -2,7 +2,11 @@
 
 Contact : eblistrigger@gmail.com
 
-Interested : Natural Language Processing, GAN, GAN for NLP
+Interested : 
+
+1. Natural Language Processing, GAN, GAN for NLP
+
+2. Computer Vision 등 Machine Learning 
 
 Hobby : Game, Music
 
