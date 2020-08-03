@@ -6,7 +6,7 @@ Interested : Natural Language Processing, GAN, GAN for NLP
 
 Hobby : Game, Music
 
-Searching : 전문연구요원 
+Job Searching : 전문연구요원, 산업기능요원 둘다 가능(4급 보충역)
 <!--
 **adventure2165/adventure2165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
