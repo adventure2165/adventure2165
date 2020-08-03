@@ -6,7 +6,7 @@ Interested :
 
 1. Natural Language Processing, GAN, GAN for NLP
 
-2. Computer Vision 등 Machine Learning 
+2. Computer Vision 등 Machine Learning 전반부
 
 Hobby : Game, Music
 
