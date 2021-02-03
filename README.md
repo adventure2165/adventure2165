@@ -2,6 +2,10 @@
 
 Contact : eblistrigger@gmail.com
 
+한양대학교 산학협력단 연구원
+
+한양대학교 전기정보통신기술 연구소 전문연구요원 & 한양대학교 AI 솔루션센터 연구원
+
 Interested : 
 
 1. Natural Language Processing, GAN, GAN for NLP
@@ -10,7 +14,7 @@ Interested :
 
 Hobby : Game, Music
 
-Job Searching : 전문연구요원, 산업기능요원 둘다 가능(4급 보충역)
+
 <!--
 **adventure2165/adventure2165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
