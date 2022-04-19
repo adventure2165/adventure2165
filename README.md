@@ -2,9 +2,7 @@
 
 Contact : eblistrigger@gmail.com
 
-한양대학교 산학협력단 연구원
-
-한양대학교 전기정보통신기술 연구소 전문연구요원 & 한양대학교 AI 솔루션센터 연구원
+Archidraw 전문연구요원
 
 Interested : 
 
