@@ -6,7 +6,7 @@ Name : Wooseong Kim
 
 Contact : eblistrigger@gmail.com
 
-Ahnlab 전문연구요원
+Ahnlab 주임연구원
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Pytorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=Pytorch&logoColor=white&style=flat)
